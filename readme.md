@@ -9,11 +9,11 @@ It's an exercise to validate whether AOAI model usage is same as Subscription le
 ```
 /clients$ python tokens_price.py
 ```
-[clients_tokens_usage_price](.media/clients_tokens_usage_price.png)
+![clients_tokens_usage_price](.media/clients_tokens_usage_price.png)
 
 ## Subscription side: meter cost data
 ```
 /pricing$ python generate_cost_details.py
 ```
-[subscription_aoai__models_cost](.media/subscription_aoai__models_cost.png)
+![subscription_aoai__models_cost](.media/subscription_aoai__models_cost.png)
 
